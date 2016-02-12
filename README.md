@@ -6,5 +6,13 @@ describes metric-learning as task of learning distance function over objects. Th
 * Triangle inequality
 
 some of the algorithms for metric-learning include
+
 1. [large-margin nearest neighbor](https://en.wikipedia.org/wiki/Large_margin_nearest_neighbor)
 2. [information-theoretic metric learning](http://www.cs.utexas.edu/users/pjain/itml/)
+
+##References
+
+[1]Jason V. Davis, Brian Kulis, Prateek Jain, Suvrit Sra, and Inderjit
+S. Dhillon.  "Information-theoretic Metric Learning."  Proc. 24th
+International Conference on Machine Learning (ICML), 2007.
+
